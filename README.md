@@ -10,3 +10,5 @@ Para rodar o código basta executalo dentro de um emulador no android studio
 }
 
 Após adicionar basta salvar o arquivo e clicar em "Pub Get", localizado no canto superior direito do android studio, em baixo do botão de Run
+
+Caso queira mudar o site da WebView, basta trocar a URL da HomePagepara a URL do site desejado
