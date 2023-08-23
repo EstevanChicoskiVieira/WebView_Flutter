@@ -2,7 +2,7 @@
 
 Para rodar o código basta executalo dentro de um emulador no android studio
 
-## Dependencias a serem colocadas no arquivo "pubspec.yaml", em baixo de cupertino_icons: ^1.0.2
+### Dependencias a serem colocadas no arquivo "pubspec.yaml", em baixo de cupertino_icons: ^1.0.2
 
 {
   webview_flutter: ^4.2.2
